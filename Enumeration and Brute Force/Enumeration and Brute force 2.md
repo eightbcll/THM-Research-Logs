@@ -1,3 +1,10 @@
+---
+title: Enumeration and Brute force 2
+updated: 2026-11-27 02:51:29Z
+created: 2026-11-27 01:47:59Z
+completed?: no
+---
+
 # Exploring Vulnerable password Reset Logic
 
 # Password Reset Mechanisms

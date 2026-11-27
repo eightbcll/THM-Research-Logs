@@ -1,3 +1,9 @@
+---
+title: Enumeration & Brute Force
+updated: 2026-11-27 01:47:58Z
+created: 2026-11-26 22:07:39Z
+---
+
 **What is authentication enumeration?**
 
 ![c45cc7afad1b688d68252ff73f4a4fc0.png](../_resources/c45cc7afad1b688d68252ff73f4a4fc0.png)
